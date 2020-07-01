@@ -68,7 +68,9 @@ Release Date: 2020-00-00
 
 ###  Tutorials
 
++ [Association Rue Mining in R](https://www.geeksforgeeks.org/association-rule-mining-in-r-programming/)
 
++ [Naive Bayes Classifier in R Programming](https://www.geeksforgeeks.org/naive-bayes-classifier-in-r-programming/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
