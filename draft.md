@@ -72,7 +72,7 @@ Release Date: 2020-10-12
 
 ###  Tutorials
 
-
++ [LOOCV (Leave One Out Cross-Validation) in R Programming](https://www.geeksforgeeks.org/loocvleave-one-out-cross-validation-in-r-programming/amp/)
 
 <!--<div class="post-more-begin></div><div class="post-more-end"></div>-->
 
